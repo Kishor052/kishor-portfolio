@@ -1,1 +1,1 @@
-console.log("Professional Portfolio Loaded Successfully");
+console.log("Enhanced Portfolio Loaded Successfully");
